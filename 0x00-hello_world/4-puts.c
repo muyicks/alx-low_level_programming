@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
- 
- this function is  a C program that prints exactly
+ *
+ * this is where the puzzle comment is
  */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
-	return (0);
+	return(0);
 }
