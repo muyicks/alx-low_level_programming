@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * this is where the puzzle comment is
  * retun 0 if suceesful
