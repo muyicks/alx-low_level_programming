@@ -7,6 +7,11 @@
  */
 int main(void)
 {
+	char c;
+	int i;
+	long li;
+	long long lli;
+	flot f;
 	printf(" Size of char: %zu byte(s)\n", sizeof(char));
 	printf(" Size of int: %zu byte(s)\n", sizeof(int));
 	printf(" Size of long int: %zu byte(s)\n", sizeof(long int));
