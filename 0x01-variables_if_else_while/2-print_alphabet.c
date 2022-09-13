@@ -11,6 +11,7 @@ int main(void)
 
 {
 	char ch;
+
 	for (ch = 'a' ; ch <= 'z' ; ch++)
 
 	{
@@ -18,5 +19,7 @@ int main(void)
 	}
 
 	putchar('\n');
+
 	return (0);
+
 }
