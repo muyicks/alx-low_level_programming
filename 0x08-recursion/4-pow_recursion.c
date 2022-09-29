@@ -6,7 +6,6 @@
  * @y: exponent to be used
  * Return: x ^ 
 */
-
 int _pow_recursion(int x, int y)
 {
 	if (y < 0)
